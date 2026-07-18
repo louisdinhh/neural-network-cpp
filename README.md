@@ -1,2 +1,2 @@
 # CNN_Sim
-Building a Neural Network from Scratch using C++
+Building a Neural Network from Scratch using Python
