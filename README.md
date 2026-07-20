@@ -63,6 +63,6 @@ This project is based on and inspired by the excellent educational work by Wout 
 
 Original repository:
 
-https://github.com/vossenwout
+[https://github.com/vossenwout](https://github.com/vossenwout/neural-cpp)
 
 All credit for the original learning material and concepts belongs to the original author.
